@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=InstrumentToSell
+comment0.text=\r\n\ class\ NonAcademicCourse\ is\ one\ of\ child\ class\ of\ course\ class\ which\ is\ parent\ class\r\n\r\n\ @author\ (Manav\ Koirala)\r\n\ @version\ (2021/05/10)\r\n
+comment1.params=instrumentName\ price
+comment1.target=InstrumentToSell(java.lang.String,\ float)
+comment1.text=\r\n\ the\ constructor\ accepts\ four\ parameters\ and\ value\ are\ assigning\ respectively,\r\n
+comment10.params=customerName\ customerMobileNumber\ customerPAN\ sellDate\ discountPercent
+comment10.target=void\ InstrumentToSell(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ float)
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=float\ getprice()
+comment3.params=
+comment3.target=java.lang.String\ getsellDate()
+comment4.params=
+comment4.target=float\ getdiscountPercent()
+comment5.params=
+comment5.target=boolean\ getisSold()
+comment6.params=price
+comment6.target=void\ setprice(float)
+comment7.params=sellDate
+comment7.target=void\ setsellDate(java.lang.String)
+comment8.params=discountPercent
+comment8.target=void\ setdiscountPercent(float)
+comment9.params=isSold
+comment9.target=void\ setisSold(boolean)
+numComments=12
